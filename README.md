@@ -25,8 +25,7 @@
       for i in range(10):
           print(each)
     ```
-    
-    
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 
 <!---
 tsinglinrain/tsinglinrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
