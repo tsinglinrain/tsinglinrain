@@ -1,26 +1,26 @@
 - ## Hi, I’m @[tsinglinrain](https://github.com/tsinglinrain/tsinglinrain/)ヾ(•ω•`)o
-- ### GitHub 新手
-  - GitHub上面优秀的创作者好多啊！
-  - 有很多有趣的项目
-  - 社区氛围温馨
-  - 我希望我可以提升能力！
-- ### 喜欢看动漫
-  - 《秦时明月》...................可惜第六部落差太大，唉，三千年前
-  - 《灵笼》.......................末日剧情，超级喜欢
-  - 《剑网三·侠肝义胆沈剑心》.......第三部平苦涩，立意深远
+- ### GitHub Novice
+  - There are so many excellent creators on GitHub!
+  - There are many interesting projects.
+  - The community atmosphere is warm.
+  - I hope to improve my abilities!
+- ### Like watching anime
+  - 《秦时明月》...................Unfortunately, the sixth part is so different. Ah, 3,000 years ago.
+  - 《灵笼》.......................Post-apocalyptic storyline, super like.
+  - 《剑网三·侠肝义胆沈剑心》.......The third part is bitter and profound
   - ......
-- ### 最喜欢孙燕姿的音乐
+- ### Favorite music from Stefanie Sun
   - 遇见
   - 开始懂了
   - 我怀念的
   - 绿光
   - 逆光
   - ......
-- ### 喜欢的游戏
-  - 《底特律·化身为人》
-  - 《钢铁雄心4》
+- ### Favorite games
+  - "Detroit: Become Human"
+  - "Hearts of Iron IV"
     - kr
-- ### 正在学习 python <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+- ###  Currently learning python <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   ``` python
       for i in range(10):
           print(i)
