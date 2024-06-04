@@ -20,6 +20,8 @@
   - "Detroit: Become Human"
   - "Hearts of Iron IV"
     - kr
+  - "Genshin Impact"
+  - 三国杀
 - ###  Currently learning python <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   ``` python
       for i in range(10):
