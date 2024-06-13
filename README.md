@@ -7,7 +7,7 @@
 - ### Like watching anime
   - 《秦时明月》...................Unfortunately, the sixth part is so different. Ah, 3,000 years ago.
   - 《灵笼》.......................Post-apocalyptic storyline, super like.
-  - 《剑网三·侠肝义胆沈剑心》.......The third part is bitter and profound
+  - 《剑网三·侠肝义胆沈剑心》........The third part is bitter and profound
   - ......
 - ### Favorite music from Stefanie Sun
   - 遇见
@@ -21,7 +21,7 @@
   - "Hearts of Iron IV"
     - kr
   - "Genshin Impact"
-  - 三国杀
+  - "三国杀"
 - ###  Currently learning python <code><img width="8%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   ``` python
       for i in range(10):
