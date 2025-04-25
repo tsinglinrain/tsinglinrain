@@ -5,7 +5,7 @@
   - The community atmosphere is warm.
   - I hope to improve my abilities!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsinglinrain&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![tsinglinrain's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsinglinrain&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsinglinrain&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
